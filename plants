@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="UTF-8">
+<head> 
+    <title>Home</title>
+    <link rel="stylesheet" text="text/css" href="stylesheet.css"
+</head>
+
+    <header>
+	<body>
+		<h1  style="color:rgb(0, 0, 0)">Jon McCoy's Marvelous Website</h1>
+        <nav>
+            <ul>
+             <li><a href="index.html">Home</a></li>
+             <li><a href="hockey.html">Hockey</a></li>
+             <li><a href="plants.html">Plants</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <h2  style="color:rgb(0, 0, 0)">About</h2>
+    <section>
+        <main>
+            <p> Jonathan McCoy is a Mechanical Engineering student at the <a href="https://wisc.edu">University of Wisconsin-Madison</a>. He enjoys long walks at the lake, fishing with his friend, playing hockey at the Shell, and taking care of his plants. He hopes to make a ton of cash when he’s an adult and has huge dreams of owning at least two phones and two homes. If he doesn’t succeed at his primary goal, he has an alternative plan of working as a professional fisherman in a foreign country and living off the food he catches. Jon is a simple man, and he lives by the motto of go big or go home.
+
+            </p>
+        </main>
+
+
+        <article>
+            <p style="color:red">Weee</p><p style="color:rgb(30, 0, 255)">Wooo</p> <p style="color:red">Weee</p><p style="color:rgb(30, 0, 255)">Wooo</p> <p style="color:red">Weee</p>
+        </article>
+        
+        <article>
+            <img src= "images\jon.jpg" alt"Jon's Photo"  width="180" height="200" >
+        </article>
+        
+        <article>
+            <p style="color:rgb(216, 216, 216)"><b>Fun Jon Facts: </b>Jon used to live in Iowa, in fact he lived there through 4th grade before moving to Minnesota with his family. Another fun fact is that he spells Jon without an H, something that gets messed up quite frequently by others, but he doesn't mid to much. He has 2 plants that are named George and Sandra.</p>  
+          
+        </article>
+
+    </section>   
+    
+    <footer>
+        <p>This is the end</p>
+    </footer>
+
+	</body>
+
+</html>
